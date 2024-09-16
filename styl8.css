@@ -1,0 +1,64 @@
+body{
+    font-family: Garamond;
+    text-align: center;
+   
+}
+#div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+#lewy{
+    width: 72%;
+}
+
+
+#sekcja1lewa{
+    background-color: #795548;
+    font-size: 170%;
+}
+#asidelewy{
+    height: 400px;
+}
+
+#prawy{
+    background-color: #bcaaa4;
+    color: #795548;
+    height:800px ;
+    width: 28%;
+
+}
+
+footer{
+    background-color: #795548;
+    color: white;
+    padding: 20px;
+    flex-basis: 100%;
+}
+
+table{
+    margin: auto ;
+    width: 80%;
+    border: solid 1px #795548;
+    
+}
+table:hover{
+    background-color: sienna;
+    color: white;
+}
+
+h4{
+    font-size: 200%;
+}
+img{
+    padding: 20px;
+    border-radius: 40px;
+}
+
+a{
+    color: white;
+}
+input{
+margin: 7px;
+}
+
